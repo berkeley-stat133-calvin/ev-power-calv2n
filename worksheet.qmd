@@ -1,7 +1,7 @@
 ---
 format: typst
 ---
-
+change
 # Lab 4 Worksheet - Practice
 
 * add something about loading a csv and having to use
